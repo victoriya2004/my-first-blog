@@ -26,7 +26,7 @@ SECRET_KEY = 'jai8!z88hin_fog14j()0$=fxms!bq0!7vviy#uux#-c0ge=94'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+LOGIN_REDIRECT_URL = '/'
 
 # Application definition
 
